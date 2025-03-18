@@ -1,0 +1,7 @@
+python-dotenv==1.0.1
+SpeechRecognition==3.14.1
+requests==2.32.3
+twilio==9.4.5
+streamlit==1.42.2
+PyAudio==0.2.14
+word2number==1.1 
