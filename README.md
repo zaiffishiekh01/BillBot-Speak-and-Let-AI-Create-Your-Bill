@@ -1,14 +1,3 @@
----
-title: BillBot
-emoji: 🎙️
-colorFrom: green
-colorTo: yellow
-sdk: streamlit
-sdk_version: 1.42.2
-app_file: app.py
-pinned: false
----
-
 # BillBot: Speak, and Let AI Create Your Bill
 
 BillBot is a voice-powered invoicing application that transforms spoken descriptions into professionally formatted invoices, making billing effortless for businesses of all sizes. Simply speak your customer details and items, and BillBot handles the rest.
